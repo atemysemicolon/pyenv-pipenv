@@ -1,4 +1,6 @@
-# pyenv-virtualenv
+# pyenv-pipenv
+
+**Important :  Forked away from pyenv-virtualenv in an attempt to create pyenv-pipenv:** The rest of the readme retains the text of pyenv-virtualenv 
 
 [![Join the chat at https://gitter.im/yyuu/pyenv-virtualenv](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yyuu/pyenv-virtualenv?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
